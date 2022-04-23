@@ -1,4 +1,4 @@
-# Data Mining Master Project
+# Data Mining Project
 
 ## Introduction 
 
